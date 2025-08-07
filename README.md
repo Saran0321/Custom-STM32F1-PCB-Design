@@ -15,24 +15,13 @@ This project is ideal for students, hobbyists, or professionals looking to under
 - Compact 2-layer PCB design
 - Designed using KiCad
 
-## 🖼 Images
 
-### 📐 PCB Layout
-![PCB Layout](images/pcb_layout.png)
-
-### 📑 Schematic Diagram
-![Schematic](images/schematic.png)
-
-### 🧰 Assembled Board
-![Assembled Board](images/project.jpg)
-
----
 
 ## 🚀 Getting Started
 
-1. Download the Gerber files and place an order with your preferred PCB manufacturer (e.g., JLCPCB, PCBWay).
+1. Download the Gerber files and place an order with your preferred PCB manufacturer (lion circuits)
 2. Solder the components as per the schematic and BOM.
-3. Upload firmware using ST-Link via the SWD header or using a USB-UART adapter with the bootloader.
+3. Upload firmware using ST-Link v2 via the SWD header or using a USB-UART adapter with the bootloader.
 4. Start developing your embedded project!
 
 ---
@@ -41,7 +30,7 @@ This project is ideal for students, hobbyists, or professionals looking to under
 
 - *PCB Design*: KiCad
 - *MCU*: STM32F103C8T6
-- *Firmware (optional)*: STM32CubeIDE
+- *Firmware*: STM32CubeIDE
 
 ---
 
