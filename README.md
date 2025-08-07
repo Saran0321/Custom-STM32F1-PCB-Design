@@ -10,8 +10,39 @@ This project is ideal for students, hobbyists, or professionals looking to under
 - STM32F103C8T6 (ARM Cortex-M3)
 - USB-powered (5V input with onboard 3.3V regulator)
 - SWD header for programming/debugging
-- BOOT0 and RESET buttons
+- BOOT0 button
 - GPIO pin headers for easy interfacing
 - Compact 2-layer PCB design
 - Designed using KiCad
 
+## 🖼 Images
+
+### 📐 PCB Layout
+![PCB Layout](images/pcb_layout.png)
+
+### 📑 Schematic Diagram
+![Schematic](images/schematic.png)
+
+### 🧰 Assembled Board
+![Assembled Board](images/project.jpg)
+
+---
+
+## 🚀 Getting Started
+
+1. Download the Gerber files and place an order with your preferred PCB manufacturer (e.g., JLCPCB, PCBWay).
+2. Solder the components as per the schematic and BOM.
+3. Upload firmware using ST-Link via the SWD header or using a USB-UART adapter with the bootloader.
+4. Start developing your embedded project!
+
+---
+
+## 📌 Tools Used
+
+- *PCB Design*: KiCad
+- *MCU*: STM32F103C8T6
+- *Firmware (optional)*: STM32CubeIDE
+
+---
+
+## 👨‍💻 Designed By
