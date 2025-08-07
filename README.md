@@ -5,7 +5,7 @@ This project is ideal for students, hobbyists, or professionals looking to under
 
 ---
 
-## 🔧 Features
+##  Features
 
 - STM32F103C8T6 (ARM Cortex-M3)
 - USB-powered (5V input with onboard 3.3V regulator)
@@ -17,7 +17,7 @@ This project is ideal for students, hobbyists, or professionals looking to under
 
 
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Download the Gerber files and place an order with your preferred PCB manufacturer (lion circuits)
 2. Solder the components as per the schematic and BOM.
